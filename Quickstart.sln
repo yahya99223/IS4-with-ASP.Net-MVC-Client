@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JavaScriptClient", "src\Jav
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServerAspNetIdentity", "src\IdentityServerAspNetIdentity\IdentityServerAspNetIdentity.csproj", "{144DB71D-E364-4A77-A50E-D4DDC2934C41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC OWIN Client (Implicit)", "..\..\..\..\IdentityServer3.Samples\source\Clients\MVC OWIN Client\MVC OWIN Client (Implicit).csproj", "{A0D39237-D450-4F23-A3CC-79EBCA1D720D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC OWIN Client (Implicit)", "src\MVC OWIN Client\MVC OWIN Client (Implicit).csproj", "{A0D39237-D450-4F23-A3CC-79EBCA1D720D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
